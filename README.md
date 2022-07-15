@@ -1,7 +1,7 @@
 # Binomial Package
 This is a Binomial package that calculate the Mean and Standard Deviation a Gaussian code.
 
-##Installation 
+## Installation 
 - Run ``pip install .``
 
 ## Lirary
